@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋 I'm Ushani Sanjan</h1>
+<h1 align="left">Hey👋 I'm Ushani Sanjana</h1>
 
 ###
 
