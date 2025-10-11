@@ -2,7 +2,7 @@
 
 <p align="left">🎓 Third-year Computer Engineering undergraduate passionate about building intelligent systems and solving real-world problems through technology.</p>
 
-<p align="left">🧠 Currently exploring the exciting world of <strong>Machine Learning</strong> and its applications in data science, automation, and AI-driven development.</p>
+<p align="left">🧠 Currently exploring the exciting world of <strong>Machine Learning</strong>.</p>
 
 <h2 align="left">🛠️ Tools & Technologies</h2>
 
@@ -29,6 +29,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshaniSanjana&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
+
 
 <h2 align="left">📬 Connect with Me</h2>
 
