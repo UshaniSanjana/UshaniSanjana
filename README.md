@@ -1,5 +1,7 @@
 <h1 align="left">Hey 👋 I'm Ushani Sanjana</h1>
 
+![Profile views](https://komarev.com/ghpvc/?username=UshaniSanjana&label=Profile%20Views&color=blue&style=flat)
+
 <p align="left">🎓 Third-year Computer Engineering undergraduate passionate about building intelligent systems and solving real-world problems through technology.</p>
 
 <p align="left">🧠 Currently exploring the exciting world of <strong>Machine Learning</strong>.</p>
