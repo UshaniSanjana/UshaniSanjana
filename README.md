@@ -49,7 +49,7 @@
 <h2 align="left">📬 Connect with Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ushani-sanjana" target="_blank">
     <img src="https://img.shields.io/badge/Ushani_Sanjana-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
